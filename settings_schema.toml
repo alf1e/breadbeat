@@ -1,0 +1,7 @@
+# The URL to send a GET heartbeat to
+# Contains Heartbeat URL
+heartbeat_url = "http://example.com"
+
+# The crontab to run the heartbeat at
+# Contains Heartbeat Crontab
+heartbeat_crontab = "*/5 * * * *"

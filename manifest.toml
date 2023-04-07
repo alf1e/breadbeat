@@ -1,0 +1,10 @@
+manifest_version = 1
+
+[module]
+id = "breadbeat"
+name = "Bread Beat"
+description = "A module to send heartbeats"
+version = "1.0.0"
+license = "MIT"
+authors = ["ItsMeAlfie0"]
+requirements = ["aiocron==1.8"]
